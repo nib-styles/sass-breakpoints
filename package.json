@@ -1,5 +1,5 @@
 {
-  "name": "@nib-stlyes/sass-breakpoints",
+  "name": "@nib-styles/sass-breakpoints",
   "version": "1.0.0",
   "description": "SASS mixins for named breakpoints.",
   "dependencies": {
