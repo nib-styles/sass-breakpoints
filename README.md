@@ -43,22 +43,22 @@ See [sass-breakpoints](https://www.npmjs.com/package/sass-breakpoints) for a ful
   </tr>
   <tr>
     <td>xs</td>
-    <td>0px</td>
+    <td>&gt;=0px</td>
   </tr>
   <tr>
     <td>sm</td>
-    <td>480px</td>
+    <td>&gt;=480px</td>
   </tr>
   <tr>
     <td>md</td>
-    <td>640px</td>
+    <td>&gt;=640px</td>
   </tr>
   <tr>
     <td>lg</td>
-    <td>800px</td>
+    <td>&gt;=800px</td>
   </tr>
   <tr>
     <td>xl</td>
-    <td>960px</td>
+    <td>&gt;=960px</td>
   </tr>
 </table>
