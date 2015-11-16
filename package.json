@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "SASS mixins for named breakpoints.",
   "dependencies": {
-    "sass-breakpoints": "^1.0.0"
+    "sass-breakpoints": "^1.0.1"
   },
   "scripts": {
     "example": "sass-composer example/example.scss -o compiled.css"
